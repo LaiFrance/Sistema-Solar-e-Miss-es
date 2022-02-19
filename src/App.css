@@ -1,31 +1,47 @@
 * {
-  align-items: flex-end;
-  background-image: url('../src/images/background.png');
+  background-image: url('../src/images/terra.jpg');
   color: aliceblue;
-  font-size: 30px;
+  margin-top: 20px;
+  padding: 0;
+}
+
+img {
+  margin-top: 20px;
+  position: relative;
+  width: 150px;
 }
 
 h1 {
   color: white;
-  margin-top: 0;
   text-align: center;
 }
 
 h2 {
-  align-items: center;
+  border: 1px solid white;
+  color: aliceblue;
   text-align: center;
 }
 
-p {
-  color: white;
-  font-family: Arial , Helvetica , sans-serif;
-  text-align: left;
+.divplanetcard {
+  align-items: center;
+  display: inline-block;
+  text-align: center;
 }
 
 .App {
   text-align: center;
 }
 
-.divplanetcard {
-  display: flex;
+.missoes {
+  border: 1px solid white;
+}
+
+.missioncards {
+  border: 1px solid white;
+  border-radius: 40px;
+  display: inline-block;
+  height: 180px;
+  padding: auto;
+  text-align: center;
+  width: 200px;
 }
