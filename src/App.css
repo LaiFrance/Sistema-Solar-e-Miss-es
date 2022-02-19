@@ -1,16 +1,31 @@
 * {
-  background-image: url('images/terra.jpg');
+  align-items: flex-end;
+  background-image: url('../src/images/background.png');
   color: aliceblue;
-  font-family: Epilogue , sans-serif;
-  font-size: larger;
+  font-size: 30px;
 }
 
-body {
-  height: 100%;
+h1 {
+  color: white;
+  margin-top: 0;
   text-align: center;
-  width: 100%;
+}
+
+h2 {
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: Arial , Helvetica , sans-serif;
+  text-align: left;
 }
 
 .App {
   text-align: center;
+}
+
+.divplanetcard {
+  display: flex;
 }
