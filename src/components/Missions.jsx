@@ -18,6 +18,9 @@ class Missions extends React.Component {
       <div className="missoes" data-testid="missions">
         <Title headline="Missões" />
         <div>{ mission }</div>
+        <footer>
+          <h3>Todos os Direitos Reservados</h3>
+        </footer>
       </div>
     );
   }

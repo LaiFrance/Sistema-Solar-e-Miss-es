@@ -90,3 +90,11 @@ p {
   text-align: center;
   zoom: 70%;
 }
+
+h3 {
+  background-color: rgb(214, 214, 214);
+  color: black;
+  font-size: 25px;
+  margin-bottom: 0;
+  opacity: 0.5;
+}
