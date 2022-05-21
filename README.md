@@ -1,4 +1,6 @@
-### Termos e acordos
+![React-App (12)](https://user-images.githubusercontent.com/91226847/169662447-336abcc4-69e6-4825-a2df-5ef5cf786837.png)
+
+
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
 
